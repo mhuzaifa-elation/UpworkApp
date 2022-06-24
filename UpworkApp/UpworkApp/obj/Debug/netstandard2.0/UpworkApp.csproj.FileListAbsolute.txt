@@ -1,0 +1,17 @@
+D:\Projects\GIT\UpworkApp\UpworkApp\UpworkApp\bin\Debug\netstandard2.0\UpworkApp.deps.json
+D:\Projects\GIT\UpworkApp\UpworkApp\UpworkApp\bin\Debug\netstandard2.0\UpworkApp.dll
+D:\Projects\GIT\UpworkApp\UpworkApp\UpworkApp\bin\Debug\netstandard2.0\UpworkApp.pdb
+D:\Projects\GIT\UpworkApp\UpworkApp\UpworkApp\obj\Debug\netstandard2.0\UpworkApp.csproj.AssemblyReference.cache
+D:\Projects\GIT\UpworkApp\UpworkApp\UpworkApp\obj\Debug\netstandard2.0\UpworkApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GIT\UpworkApp\UpworkApp\UpworkApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Projects\GIT\UpworkApp\UpworkApp\UpworkApp\obj\Debug\netstandard2.0\ConceptTabbedPage.xaml.g.cs
+D:\Projects\GIT\UpworkApp\UpworkApp\UpworkApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Projects\GIT\UpworkApp\UpworkApp\UpworkApp\obj\Debug\netstandard2.0\SampleTabbedPage.xaml.g.cs
+D:\Projects\GIT\UpworkApp\UpworkApp\UpworkApp\obj\Debug\netstandard2.0\UpworkApp.AssemblyInfoInputs.cache
+D:\Projects\GIT\UpworkApp\UpworkApp\UpworkApp\obj\Debug\netstandard2.0\UpworkApp.AssemblyInfo.cs
+D:\Projects\GIT\UpworkApp\UpworkApp\UpworkApp\obj\Debug\netstandard2.0\UpworkApp.csproj.CoreCompileInputs.cache
+D:\Projects\GIT\UpworkApp\UpworkApp\UpworkApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Projects\GIT\UpworkApp\UpworkApp\UpworkApp\obj\Debug\netstandard2.0\UpworkApp.dll
+D:\Projects\GIT\UpworkApp\UpworkApp\UpworkApp\obj\Debug\netstandard2.0\refint\UpworkApp.dll
+D:\Projects\GIT\UpworkApp\UpworkApp\UpworkApp\obj\Debug\netstandard2.0\UpworkApp.pdb
+D:\Projects\GIT\UpworkApp\UpworkApp\UpworkApp\obj\Debug\netstandard2.0\ref\UpworkApp.dll

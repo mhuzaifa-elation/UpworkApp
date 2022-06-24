@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UpworkApp.SampleTabbedPage"
+             BackgroundColor="White">
+    <ContentPage.Padding>
+        <OnPlatform
+            x:TypeArguments="Thickness">
+            <OnPlatform.Platforms>
+                <On
+                    Platform="iOS"
+                    Value="0, 20, 0, 20" />
+            </OnPlatform.Platforms>
+        </OnPlatform>
+    </ContentPage.Padding>
+    <ContentPage.Content>
+        <StackLayout
+            HorizontalOptions="FillAndExpand"
+            VerticalOptions="FillAndExpand">
+            <StackLayout
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="StartAndExpand">
+                <StackLayout
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="Start"
+                    Orientation="Horizontal">
+                    <CheckBox
+                      Color="Black"/>
+                    <Label
+                        VerticalOptions="Center"
+                    Text="Username" 
+                    FontSize="Medium"
+                    TextColor="Black"/>
+                </StackLayout>
+                <StackLayout
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="Start">
+                    <Label
+                    Text="Username" 
+                    FontSize="Default"
+                    TextColor="Black"
+                    FontAttributes="Bold"/>
+                    <Grid>
+                         <Picker ItemsSource="{Binding SampleText}" 
+                    Title="Select a role"/>
+                        <Image Source="arrow.png" HorizontalOptions="End" Margin="5"/>
+                    </Grid>
+                </StackLayout>
+                <StackLayout
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="Start">
+                    <Label
+                    Text="Username" 
+                    FontSize="Default"
+                    TextColor="Black"
+                    FontAttributes="Bold"/>
+                    <Grid>
+                         <Picker ItemsSource="{Binding SampleText}"
+                    Title="Select a role"/>
+                        <Image Source="arrow.png" HorizontalOptions="End" Margin="5"/>
+                    </Grid>
+                </StackLayout>
+                <StackLayout
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="Start">
+                    <Label
+                    Text="Username" 
+                    FontSize="Default"
+                    TextColor="Black"
+                    FontAttributes="Bold"/>
+                    <Grid>
+                         <Picker ItemsSource="{Binding SampleText}"
+                    Title="Select a role"/>
+                        <Image Source="arrow.png" HorizontalOptions="End" Margin="5"/>
+                    </Grid>
+                </StackLayout>
+                <StackLayout
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="Start">
+                    <Label
+                    Text="Username" 
+                    FontSize="Default"
+                    TextColor="Black"
+                    FontAttributes="Bold"/>
+                    <Grid>
+                         <Picker ItemsSource="{Binding SampleText}"
+                    Title="Select a role"/>
+                        <Image Source="arrow.png" HorizontalOptions="End" Margin="5"/>
+                    </Grid>
+                </StackLayout>
+                <StackLayout
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="Start">
+                    <Label
+                    Text="Username" 
+                    FontSize="Default"
+                    TextColor="Black"
+                    FontAttributes="Bold"/>
+                    <Grid>
+                         <Picker ItemsSource="{Binding SampleText}"
+                    Title="Select a role"/>
+                        <Image Source="arrow.png" HorizontalOptions="End" Margin="5"/>
+                    </Grid>
+                </StackLayout>
+
+            </StackLayout>
+
+            <StackLayout
+                HorizontalOptions="FillAndExpand"
+                Orientation="Horizontal"
+                VerticalOptions="End">
+                <Grid ColumnDefinitions="*,*"
+                HorizontalOptions="FillAndExpand"
+                      >
+                    <Button
+                        Grid.Column="0"
+                    Text="Signup"/>
+                    <Button
+                        Grid.Column="1"
+                    Text="Back"/>
+                </Grid>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

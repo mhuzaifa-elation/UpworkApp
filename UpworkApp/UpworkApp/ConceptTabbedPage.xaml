@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UpworkApp.ConceptTabbedPage"
+            xmlns:local="clr-namespace:UpworkApp">
+  <!--Pages can be added as references or inline-->
+    <local:SampleTabbedPage
+        TabIndex="1"
+        Title="Sample One" />
+    <ContentPage Title="Tab 2"
+                 BackgroundColor="White"/>
+</TabbedPage>
